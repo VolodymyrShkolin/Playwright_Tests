@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tests.ProductsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-12-12T18:06:28" hostname="LAPTOP-M6KHE87Q" time="6.17">
+  <properties/>
+  <testcase name="testSuccessfulLogout()" classname="com.tests.ProductsTest" time="2.833"/>
+  <testcase name="testSortItems()" classname="com.tests.ProductsTest" time="1.225"/>
+  <testcase name="testAddItemToCartAndBuy()" classname="com.tests.ProductsTest" time="2.062"/>
+  <system-out><![CDATA[Allure environment data saved.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

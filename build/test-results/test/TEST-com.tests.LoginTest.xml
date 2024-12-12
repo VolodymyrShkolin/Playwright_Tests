@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tests.LoginTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-12-12T18:06:23" hostname="LAPTOP-M6KHE87Q" time="2.947">
+  <properties/>
+  <testcase name="testCorrectLoginCredentials()" classname="com.tests.LoginTest" time="1.452"/>
+  <testcase name="testLockerOutUser()" classname="com.tests.LoginTest" time="1.305"/>
+  <system-out><![CDATA[Allure environment data saved.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
